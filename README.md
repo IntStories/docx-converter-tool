@@ -37,3 +37,11 @@ Install Python dependencies via:
 
 ```bash
 pip install pypandoc python-docx docx2pdf
+```
+## Download
+
+You can download the Windows executable here:
+
+[convert_tool.exe (v1.0.0)](https://github.com/IntStories/docx-converter-tool/releases/download/v1.0.0/convert_tool.exe)
+
+Simply run the `.exe` file—no Python or additional setup required.
